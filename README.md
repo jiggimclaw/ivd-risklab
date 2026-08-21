@@ -1,11 +1,6 @@
 # IVD RiskLab
 
-> **Educational and experimental project only — not for regulated, clinical, diagnostic, or production use.**
-
-IVD RiskLab is a personal learning and portfolio project exploring **FMEA-based risk analysis concepts in the field of in-vitro diagnostics (IVD)**.
-
-The project combines software development, Git/GitHub workflows, UI/UX design, data modelling, and structured risk-analysis concepts in a practical learning environment.
-
+> personal software engineering and GitHub learning project that applies established FMEA-based risk-analysis concepts from the IVD domain.
 ## Project Status
 
 **Early development / learning project**
