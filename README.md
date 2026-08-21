@@ -1,13 +1,16 @@
 # IVD RiskLab
 
-> personal software engineering and GitHub learning project that applies established FMEA-based risk-analysis concepts from the IVD domain.
+> **A personal software engineering and GitHub learning project that applies established FMEA-based risk-analysis concepts from the IVD domain.**
+
 ## Project Status
 
-**Early development / learning project**
+**Early development / software engineering learning project**
 
-IVD RiskLab is being developed incrementally as a hands-on software engineering and GitHub learning project.
+IVD RiskLab is being developed incrementally as a hands-on project for learning and applying software engineering practices and GitHub-based development workflows.
 
-The initial focus is on modelling a structured FMEA workflow and understanding the relationships between:
+The IVD and FMEA domain provides the practical subject matter for the application. The primary learning focus of this repository is software development and the use of GitHub — not the acquisition of FMEA or IVD risk-management knowledge.
+
+The initial implementation focuses on translating a structured FMEA workflow and its relationships into a software model, including:
 
 - components and inputs,
 - failure modes,
@@ -20,7 +23,7 @@ The initial focus is on modelling a structured FMEA workflow and understanding t
 - risk-control measures, and
 - residual risk.
 
-The methodological structure is inspired by established FMEA and medical-device risk-management concepts. Regulatory terminology is used for educational and contextual purposes only.
+Established FMEA and medical-device risk-management concepts are used as the domain basis for the software model. Regulatory terminology is used for contextual and demonstrative purposes within this software-learning project.
 
 ## Important Disclaimer
 
@@ -43,27 +46,35 @@ The software has **not been validated, verified, or qualified for regulated use*
 
 No claim is made that IVD RiskLab complies with **Regulation (EU) 2017/746 (IVDR), ISO 14971, or any other regulation, standard, guidance document, or quality-management requirement**.
 
-References to such regulations, standards, methodologies, or terminology are provided solely for educational purposes.
+References to regulations, standards, methodologies, and regulatory terminology are provided solely as contextual material for this educational software-development project.
 
 **Do not rely on this software or its outputs for real-world medical, regulatory, quality, safety, or product decisions.**
 
 A more detailed legal and regulatory disclaimer will be maintained separately in `DISCLAIMER.md`.
 
-## Project Goals
+## Learning Goals
 
-The project is intended to provide practical experience with:
+The primary purpose of this repository is to gain practical experience with:
 
 - Git and GitHub
+- repositories and version control
+- commits and commit history
+- issues and requirements tracking
+- branches
+- pull requests and code review
+- merging
 - structured software development
-- requirements and issue management
-- branching and pull requests
 - software architecture
 - frontend development
 - testing
 - UI/UX design
-- risk-analysis data modelling
+- domain-data modelling
 - documentation
 - versioning and releases
+- GitHub Actions
+- GitHub Pages
+
+The FMEA-based IVD application serves as the practical use case through which these software-engineering concepts are applied.
 
 ## Development Approach
 
@@ -73,9 +84,11 @@ IVD RiskLab is developed incrementally using a GitHub-based workflow:
 
 Each development step is intended to remain small, traceable, and understandable.
 
-## Current Scope
+The repository itself therefore forms part of the learning process: its commit history, issues, branches, pull requests, releases, and documentation are intended to reflect the evolution of the project.
 
-The first development stage will focus on the core FMEA and risk-analysis model.
+## Current Application Scope
+
+The first development stage will focus on implementing the core FMEA and risk-analysis model.
 
 Planned capabilities include:
 
@@ -89,7 +102,7 @@ Planned capabilities include:
 - import and export, and
 - basic reporting.
 
-The scope may evolve as the project progresses.
+The application scope may evolve as the project progresses.
 
 ## Data
 
@@ -106,4 +119,4 @@ Unless explicitly stated otherwise, all rights are reserved.
 ---
 
 **IVD RiskLab**  
-*Structured risk-analysis concepts. Built for learning, not for regulated use.*
+*Learning software engineering and GitHub through an IVD risk-analysis use case — not for regulated use.*
